@@ -1,6 +1,6 @@
 Lien : 
 
-Jeu-js[https://thomasdlv0.github.io/jeu-js/]
+Jeu-js [https://thomasdlv0.github.io/jeu-js/]
 
 # Jouer contre l'ordinateur
 
